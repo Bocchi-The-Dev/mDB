@@ -1,2 +1,2 @@
 # mDB
-Malware Database (Just a random hobby lol)
+# PASSWORDS FOR THE ZIP ARE 'infected'
